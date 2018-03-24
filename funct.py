@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 
 # Function definition is here
 def printme( str ):
